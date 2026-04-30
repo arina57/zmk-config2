@@ -19,9 +19,7 @@
 #
 ---
 include:
-  - board: nice_nano_v2
+  - board: sparkfun_pro_micro_rp2040
     shield: corne_left
-    artifact-name: left
-  - board: nice_nano_v2
-    shield: corne_left
-    artifact-name: right
+  - board: sparkfun_pro_micro_rp2040
+    shield: corne_right
